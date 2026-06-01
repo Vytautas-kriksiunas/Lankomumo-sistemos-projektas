@@ -1,5 +1,5 @@
 # Lankomumo-sistemos-projektas
-projektas Vytauto Krikščiūno Igno Liškaus ir Justinos R.
+Projektas Vytauto Krikščiūno Igno Liškaus ir Justinos R.
 
 Nukopijuok .env.example į .env:
 
